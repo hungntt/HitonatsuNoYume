@@ -1,160 +1,155 @@
 ==============================================================
-�y�^�C�g���z �q�g�i�c�̖� / A Dream of Summer
-�yVer ���z Ver 1.13
-�y���@�@�J�z 2018�N04��01��
-�y�ŏI�X�V�z 2018�N08��18��
-�y���@�@��z �i�L�jmilk cat�@�@HP�@https://milkcat.jp/
-�y�J�����z �e�B���m�X�N���v�g�@v472
-�y�Ή�����z ���{��/�p��@�iJapanese or English�j
-�y��@�@�ʁz �t���[�E�F�A
+【タイトル】 ヒトナツの夢 / A Dream of Summer
+【Ver 情報】 Ver 1.13
+【公　　開】 2018年04月01日
+【最終更新】 2018年08月18日
+【製　　作】 （猫）milk cat　　HP　https://milkcat.jp/
+【開発環境】 ティラノスクリプト　v472
+【対応言語】 日本語/英語　（Japanese or Vietnamese）
+【種　　別】 フリーウェア
 ==============================================================
 
-���͂��߂�
+■はじめに
 
-�{���2005�N8���Ɍ��J����Windows�ł̓���i���A�e�B���m�X�N���v�g��p����
-�ڐA�����t���{�C�X�r�W���A���m�x���ƂȂ�܂��B
+本作は2005年8月に公開したWindows版の同作品を、ティラノスクリプトを用いて
+移植したフルボイスビジュアルノベルとなります。
 
-���{��y�щp��ɑΉ����A�^�C�g����ʂɂĐ؂�ւ����\�ł��B
+日本語及び英語に対応し、タイトル画面にて切り替えが可能です。
 
-�v���C�O�ɁA�܂����̃t�@�C���̈�ǂ����肢�v���܂��B
-
-
-�������
-
-�E HTML5�Ή��u���E�U�iIE8�ȍ~�EChrome�EFireFox�ESafari�EEdge���j
-�E Windows
-�E Macintosh
-�E iPhone�A�X�}�[�g�t�H���AWindowsPhone�ȂǊe�탂�o�C��
-�E ���̑��AHTML5�Ή��̊�
-
-�@���u���E�U���g�p����ꍇ�́AGoogle Chrome�ł̃v���C�������������Ă���܂��B
+プレイ前に、まずこのファイルの一読をお願い致します。
 
 
-���{��ɂ���
+■動作環境
 
-��l�����܂ރt���{�C�X�̃r�W���A���m�x���ƂȂ�܂��B
-�������s�v�ȏꍇ�̓Q�[�����̃R���t�B�O��ʂ��ݒ肪�\�ł��B
-�܂��������I�t�ɂ����ꍇ�́A�����t�@�C���̃_�E�����[�h�����܂���̂�
-������s����Ȋ���A�p�P�b�g��ߖ񂵂����ꍇ�ł����ʂ�����܂��B
+・ HTML5対応ブラウザ（IE8以降・Chrome・FireFox・Safari・Edge等）
+・ Windows
+・ Macintosh
+・ iPhone、スマートフォン、WindowsPhoneなど各種モバイル
+・ その他、HTML5対応の環境
 
-
-�����炷��
-
-�@�w���Ղ����O�Ɍ}�����C���Z�B
-�@���l�����ŁA�e�����F�l�ȊO�Ƃ͋�����u�����N�B
-�@���ԂƋ�����A�ЂƂ�ŋ��鎖���D�ޏ����B
-�@����Ȃӂ���̈�Ă����ォ��͂��܂�c�c�B
+　※ブラウザを使用する場合は、Google Chromeでのプレイを強く推奨しております。
 
 
-�@��킭�΁A�ӂ���ɍK���Ȗڊo�߂��\�\�B
+■本作について
+
+主人公を含むフルボイスのビジュアルノベルとなります。
+音声が不要な場合はゲーム中のコンフィグ画面より設定が可能です。
+また音声をオフにした場合は、音声ファイルのダウンロードをしませんので
+回線が不安定な環境や、パケットを節約したい場合でも効果があります。
 
 
-�@���X�߂����ȓ��������鏭���Ƃ̈�Ă�Ԃ�������B
+■あらすじ
 
-�@������`�Ȏ�l���̐{�L�r���B
-�@����ŏo����������̗t�����؁B
-�@�������芪���A�w���l�C�o���hBROY(�{�[�C)�̃����o�[�B
-
-�@���Z�����O�N�ڂ̉āB
-�@��l���͂܂��ʂ�����ʖ񑩂����ɍŌ�̊w���Ղɒ��ށB
+　学園祭を二日前に迎えた海鳴高校。
+　他人が苦手で、親しい友人以外とは距離を置く少年。
+　仲間と居るより、ひとりで居る事を好む少女。
+　そんなふたりの一夏が屋上からはじまる……。
 
 
-���Ɛӎ���
-
-�{��i�̎g�p�ɂ���ĉ��炩�̔�Q�A�������������Ƃ��Ă��A
-��ؐӔC�𕉂��܂���̂ł��������������B
-
-�܂�����i�A�y�ѓ���i���Ɏg�p����Ă���
-�S�Ă̑f�ނ̒��쌠�́i�L�jmilkcat�ɋA�����܂��B
-�����̓񎟔z�z�A���f�g�p�͋֎~�����Ă��������܂��B
+　願わくば、ふたりに幸せな目覚めを――。
 
 
-��������@
+　時々悲しげな瞳を見せる少女との一夏を綴った物語。
 
-���N���b�N�@�@�e�L�X�g����E����
-�E�N���b�N�@�@�E�C���h�E�̈ꎞ�����E�L�����Z��
-���N���b�N�@�@���j���[�̕\��
-Ctrl�@�@�@�@�@�������X�L�b�v
+　現実主義な主人公の須貝俊樹。
+　屋上で出会った少女の葉月瑞菜。
+　それを取り巻く、学園人気バンドBROY(ボーイ)のメンバー。
 
-�z�C�[�����@�@�e�L�X�g����
-�z�C�[����@�@�o�b�N���O
-
-�E�^�b�`�p�l������
-��X���C�v�@�@�o�b�N���O
-���X���C�v�@�@���[�h���
-�E�X���C�v�@�@���j���[�̕\��
-���X���C�v�@�@�I�[�g���[�h
-�z�[���h�@�@�@�X�L�b�v
+　高校生活三年目の夏。
+　主人公はまだ果たされぬ約束を胸に最後の学園祭に挑む。
 
 
-���X�^�b�t�i�h�ꗪ�j
+■免責事項
 
-�V�i���I�E�X�N���v�g
-�@�L�U
+本作品の使用によって何らかの被害、損失があったとしても、
+一切責任を負いませんのでご了承ください。
 
-�L�����N�^�[����ECG
-�@�h�o�g
-
-�w�i���p
-�@G5
-
-���y
-�@Bill of Fare
+また当作品、及び当作品中に使用されている
+全ての素材の著作権は（猫）milkcatに帰属します。
+これらの二次配布、無断使用は禁止させていただきます。
 
 
-���L���X�g
+■操作方法
 
-����r��
-�@DAPP
+左クリック　　テキスト送り・決定
+右クリック　　ウインドウの一時消去・キャンセル
+中クリック　　メニューの表示
+Ctrl　　　　　押下中スキップ
 
-�t������
-�@����
+ホイール下　　テキスト送り
+ホイール上　　バックログ
 
-��z
-�@�����b��
-
-����^��
-�@���������
-
-�����玡
-�@����
-
-
-��English Localization
-
-Localization
-�@Deja Vu
-
-Translator
-�@Leona
-
-Additional Translation
-�@J
-�@Melithiel
+・タッチパネル操作
+上スワイプ　　バックログ
+下スワイプ　　ロード画面
+右スワイプ　　メニューの表示
+左スワイプ　　オートモード
+ホールド　　　スキップ
 
 
-������E����
+■スタッフ（敬語略）
 
-�i�L�jmilk cat
-�z�[���y�[�W�@https://milkcat.jp/
-�c�C�b�^�[�@�@https://twitter.com/nekomilkcat
+シナリオ・スクリプト
+　猫廼
 
-Copyright (C) 2018 �i�L�jmilkcat All Rights Reserved.
+キャラクター原画・CG
+　ドバト
+
+背景美術
+　G5
+
+音楽
+　Bill of Fare
 
 
-���X�V����
-2018/08/18�@�@�@Ver1.13 �@�뎚�C��
+■キャスト
 
-2018/07/28�@�@�@Ver1.12 �@���ˑ��ɂ�����������_���C��
+菅井俊樹
+　DAPP
 
-2018/07/22�@�@�@Ver1.11 �@�e�B���m�X�N���v�g�̃o�[�W�����A�b�v�iv471f��v472�j
-�@�@�@�@�@�@�@�@�@�@�@�@�@��L�ɔ����s��C��
+葉月瑞菜
+　癒月
 
-2018/07/01�@�@�@Ver1.10 �@�\�t�g�E�F�A���̂��u�q�g�i�c�̖��@WebBrowser�Łv
-�@�@�@�@�@�@�@�@�@�@�@�@�@����u�q�g�i�c�̖� / A Dream of Summer�v�֕ύX
-�@�@�@�@�@�@�@�@�@�@�@�@�@
-�@�@�@�@�@�@�@�@�@�@�@�@�@�p��ł̒ǉ�
-�@�@�@�@�@�@�@�@�@�@�@�@�@
-�@�@�@�@�@�@�@�@�@�@�@�@�@UI����̕ύX
+篠井凛
+　朝霧恵吏
 
-2018/04/01�@�@�@Ver1.00 �@����
+加川真美
+　水瀬えるも
+
+西原礼治
+　佐上
+
+
+■Vietnamese Localization
+
+Localization/Translator/Programmer/Debugger
+  Shifumi (Thanh Hung)
+ Quality Checker/Proofreader
+  Minata Hatsune
+
+
+■製作・著作
+
+（猫）milk cat
+ホームページ　https://milkcat.jp/
+ツイッター　　https://twitter.com/nekomilkcat
+
+Copyright (C) 2018 （猫）milkcat All Rights Reserved.
+
+
+■更新履歴
+2018/08/18　　　Ver1.13 　誤字修正
+
+2018/07/28　　　Ver1.12 　環境依存における問題を何点か修正
+
+2018/07/22　　　Ver1.11 　ティラノスクリプトのバージョンアップ（v471f→v472）
+　　　　　　　　　　　　　上記に伴う不具合修正
+
+2018/07/01　　　Ver1.10 　ソフトウェア名称を「ヒトナツの夢　WebBrowser版」
+　　　　　　　　　　　　　から「ヒトナツの夢 / A Dream of Summer」へ変更
+　　　　　　　　　　　　　
+　　　　　　　　　　　　　英語版の追加
+　　　　　　　　　　　　　
+　　　　　　　　　　　　　UI周りの変更
+
+2018/04/01　　　Ver1.00 　初版
