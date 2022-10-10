@@ -1,4 +1,5 @@
 # A Dream of Summer / Hitonatsu no Yume / Giấc mơ mùa hạ
+https://vnkeyfc.com/hitonatsu/
 ==============================================================
 【タイトル】 ヒトナツの夢 / A Dream of Summer
 【Ver 情報】 Ver 1.13
